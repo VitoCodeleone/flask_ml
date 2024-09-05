@@ -5,3 +5,6 @@ pandas
 xgboost
 feature_engine
 joblib
+flask
+flask_wtf
+wtforms
